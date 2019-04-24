@@ -1,0 +1,6 @@
+spring:
+    rabbitmq:
+        host: 39.96.195.193
+        port: 5672
+        username: admin
+        password: whispere
